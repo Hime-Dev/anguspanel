@@ -1,0 +1,20 @@
+@keyframes notification {
+	0% {
+		right: -100%;
+		bottom: 25px;
+	}
+	25% {
+		right: 25px;
+		bottom: 25px;
+	}
+
+	75% {
+		right: 25px;
+		bottom: 25px;
+	}
+
+	100% {
+		right: 25px;
+		bottom: -100%;
+	}
+}
